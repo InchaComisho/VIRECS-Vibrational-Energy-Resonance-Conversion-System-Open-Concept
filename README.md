@@ -1,0 +1,1 @@
+# VIRECS-Vibrational-Energy-Resonance-Conversion-System-Open-Concept

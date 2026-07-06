@@ -1,5 +1,7 @@
 # VIRECS：振動エネルギー共鳴変換システム
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Vibrational Energy Resonance Conversion System Open Concept
 
 [日本語](README_ja.md) | [English](README.md) | [العربية](README_ar.md)

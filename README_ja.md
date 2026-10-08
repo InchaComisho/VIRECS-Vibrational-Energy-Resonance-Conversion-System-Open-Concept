@@ -20,10 +20,6 @@ VIRECSの中心思想は、次の一文に集約される。
 
 ---
 
-## 原案NOTE
-
-- [VIRECS：振動エネルギー共鳴変換システム（Open Concept）](https://note.com/inchacomusho/n/n529a38836f1a)
-
 ---
 
 ## 基本構造

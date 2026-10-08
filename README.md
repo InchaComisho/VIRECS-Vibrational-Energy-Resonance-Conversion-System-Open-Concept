@@ -20,10 +20,6 @@ The central idea of VIRECS can be summarized as follows:
 
 ---
 
-## Original NOTE Article
-
-- [VIRECS：振動エネルギー共鳴変換システム（Open Concept）](https://note.com/inchacomusho/n/n529a38836f1a)
-
 ---
 
 ## Basic Structure
